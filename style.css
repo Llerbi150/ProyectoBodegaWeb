@@ -1,0 +1,25 @@
+.bg-image {
+    background-image: url('Foto/trabajadores-cascos-chaquetas-reflectantes-caminando-gran-pasillo-almacen-comprobando-estado-mercancias.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-attachment: fixed;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {    
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+    margin-right: 100vh ;
+    
+    
+}
+
+
+

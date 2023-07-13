@@ -1,0 +1,23 @@
+.Funcas {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 94vh;
+  background-image: url('Foto/abundancia-cajas-estanterias-almacen-generadas-ia.jpg'); /* Reemplaza 'ruta/a/la/imagen.jpg' con la ruta de tu imagen */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.card {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+
+.navbar-menu {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
